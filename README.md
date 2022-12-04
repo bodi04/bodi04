@@ -12,9 +12,12 @@
 <div>ㅤ</div>
 <div>ㅤ</div>
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bodi04&count_private=true&show_icons=true&theme=tokyonight&hide=contribs&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bodi04&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bodi04&count_private=true&show_icons=true&theme=tokyonight&hide=contribs&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bodi04&layout=compact&theme=tokyonight&hide_border=true)
+  
+</div>ㅤ
 
 ## 💻 Learned Languages
 
