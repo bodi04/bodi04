@@ -7,7 +7,7 @@
   
 </div>
 
-<h4 align="center">Currently studying at University of Minho in the course in the degree of Applied Statistics. Looking for learning new front-end languages!</h4>
+<h4 align="center">Currently studying at University of Minho in the degree of Applied Statistics. Looking for learning new front-end languages!</h4>
 
 <div>ㅤ</div>
 <div>ㅤ</div>
