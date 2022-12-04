@@ -2,7 +2,7 @@
 
 <div align="center">
   
-    <a href="https://www.instagram.com/martimr33/" target="_blank">![Instagram](https://img.shields.io/badge/-@martimr33-purple?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+  <a href="https://www.instagram.com/martimr33/" target="_blank">![Instagram](https://img.shields.io/badge/-@martimr33-purple?style=for-the-badge&logo=Instagram&logoColor=white)</a>
   <a href="https://twitter.com/martimr33" target="_blank">![Twitter](https://img.shields.io/badge/-@martimr33-blue?style=for-the-badge&logo=twitter)</a>
   
 </div>
